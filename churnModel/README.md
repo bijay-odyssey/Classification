@@ -17,8 +17,9 @@ Classification/churnModel/
 │── y_train.joblib          # Training labels
 │── y_test.joblib           # Test labels
 │── README.md               # Documentation
+.joblib files were large so it is not pushed
 ```
-.joblib files were large so did not push it on repo
+
 ---
 
 ## ⚙️ Workflow
@@ -47,8 +48,8 @@ Baseline models trained and stored in `base_models/`:
 * Logistic Regression
 * Random Forest
 * XGBoost
-* LightGBM
-* Support Vector Classifier (SVC)
+* KNN
+* Support Vector Machine (SVM)
 
 ### 4. Model Evaluation
 
@@ -79,7 +80,7 @@ For each model:
 
 ---
 
-## 🔮 Next Steps
+## ⏭️ Next Steps
 
 * Hyperparameter tuning (GridSearchCV / Optuna)
 * Feature importance (tree-based & permutation importance)
