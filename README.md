@@ -18,11 +18,10 @@ Here is a list of the current and planned projects in this repository:
 | Project Directory | Description | Status |
 | :--- | :--- | :--- |
 | `bankDataSet/` | Predicting customer subscription to a bank's term deposit using a variety of classification models. | **Complete** |
-| `Churn/` | *(Coming Soon)* | **In Progress** |
-| `Stocks/` | * (Coming Soon)* | **Planned** |
-| `Titanic/` | * (Coming Soon)* | **Planned** |
-| `HeartdiseaseUCI/` | * (Coming Soon)* | **Planned** |
-| `Wine/` | * (Coming Soon)* | **Planned** |
+| `churnModel/` | *(Coming Soon)* | **Complete** |
+| `titanicModel/` | * (Coming Soon)* | **Complete** |
+| `hearDiseaseUCIModel/` | * (Coming Soon)* | **In** **Progress** |
+| `wineQualityModel/` | * (Coming Soon)* | **In** **Progress** |
 
 
 
