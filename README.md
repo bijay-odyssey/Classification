@@ -18,10 +18,10 @@ Here is a list of the current and planned projects in this repository:
 | Project Directory | Description | Status |
 | :--- | :--- | :--- |
 | `bankDataSet/` | Predicting customer subscription to a bank's term deposit using a variety of classification models. | **Complete** |
-| `churnModel/` | *(Coming Soon)* | **Complete** |
-| `titanicModel/` | * (Coming Soon)* | **Complete** |
-| `hearDiseaseUCIModel/` | * (Coming Soon)* | **In** **Progress** |
-| `wineQualityModel/` | * (Coming Soon)* | **In** **Progress** |
+| `churnModel/` | Predicting customer churn   | **Complete** |
+| `titanicModel/` | Predicting passenger survival on the Titanic dataset  | **Complete** |
+| `heartDiseaseUCIModel/` | Predicting Heart Disease target | **EDA Complete** |
+| `wineQualityModel/` | Predicting quality of red-wine | **Combined Pipeline** |
 
 
 
@@ -32,7 +32,7 @@ Here is a list of the current and planned projects in this repository:
 
 Click on the links below to navigate to the individual project directories for a detailed breakdown of each analysis.
 
-#### **[Bank Marketing](https://github.com/bijay-odyssey/Classification/tree/main/bankDataSet)**
+#### **[Bank Subscription](https://github.com/bijay-odyssey/Classification/tree/main/bankDataSet)**
 
 * **Objective**: To build an effective classification model that predicts whether a client will subscribe to a bank term deposit after a marketing campaign.
 * **Key Techniques**:
