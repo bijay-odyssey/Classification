@@ -32,7 +32,7 @@ Here is a list of the current and planned projects in this repository:
 
 Click on the links below to navigate to the individual project directories for a detailed breakdown of each analysis.
 
-#### **[Bank Marketing Dataset](https://github.com/bijay-odyssey/Classification/tree/main/bankDataSet)**
+#### **[Bank Marketing](https://github.com/bijay-odyssey/Classification/tree/main/bankDataSet)**
 
 * **Objective**: To build an effective classification model that predicts whether a client will subscribe to a bank term deposit after a marketing campaign.
 * **Key Techniques**:
