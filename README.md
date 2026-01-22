@@ -125,24 +125,24 @@ A well-structured project with clean pipeline and strong evaluation.
 
 These projects are smaller or exploratory, included for completeness:
 
-### ✔ **Bank Marketing Dataset (`bankDataSet/`)**
+###  **Bank Marketing Dataset (`bankDataSet/`)**
 
 Predict term deposit subscription.
 Includes SMOTE-based balancing, model comparison, and SHAP interpretation.
 
-### ✔ **Titanic Survival (`titanicModel/`)**
+###  **Titanic Survival (`titanicModel/`)**
 
 Classic ML task with feature engineering (family size, title extraction).
 
-### ✔ **Customer Churn (`churnModel/`)**
+###  **Customer Churn (`churnModel/`)**
 
 Baseline pipeline complete → tuning pending.
 
-### ✔ **Heart Disease UCI (`heartDiseaseUCIModel/`)**
+###  **Heart Disease UCI (`heartDiseaseUCIModel/`)**
 
 EDA done → modeling next.
 
-### ✔ **Wine Quality (`wineQualityModel/`)**
+###  **Wine Quality (`wineQualityModel/`)**
 
 Combined pipeline for regression → classification setup optional.
 
